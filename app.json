@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.FinansalBT.haberimcom",
+      "package": "com.F01.haberimcom",
       "versionCode": 1
     },
     "web": {
